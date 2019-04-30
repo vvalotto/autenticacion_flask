@@ -105,3 +105,4 @@ venv.bak/
 
 # mis archivos ignorados
 .idea/
+.idea/vcs.xml
